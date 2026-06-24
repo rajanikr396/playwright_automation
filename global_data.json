@@ -1,0 +1,10 @@
+{
+    "base_url": "https://simple-grocery-store-api.click",
+    "cart_id": "Wv8u3B6RJn6HNHynVspNF",
+    "item_id": [
+        313730409,
+        7870422
+    ],
+    "accessToken": "REDACTED_ACCESS_TOKEN",
+    "order_id": "aBjKU5E_CUBY61zzwJjL0"
+}
